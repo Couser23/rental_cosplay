@@ -45,7 +45,7 @@ To ensure the application runs correctly, perform the following tests:
 1. Clone the repository to your local server (e.g., Laragon/XAMPP).
 2. Import the provided SQL file into your MySQL database.
 3. Configure `config/database.php` with your local credentials.
-4. Access via `https://rekayasakebutuhan.infinityfree.me/index.php`.
+4. Access via `localhost/rental_costum/index.php`.
 
 ## 📄 License
 
